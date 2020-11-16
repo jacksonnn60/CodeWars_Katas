@@ -10,36 +10,7 @@ namespace sortingByInsert
 
         static void Main(string[] args)
         {
-            //string s = " ";
-            //for (int k = 0; k <= array.Length - 1; k++)
-            //{
-            //    s += " ";
-            //    s += array[k];
-            //}
-            //Console.WriteLine(Solve("cONSTAns"));
-
-
-
-            //Dictionary<char, int> d = new Dictionary<char, int>
-            //{
-            //    {'b' , 2 },{'c' , 3 },{'d' , 4 },{'f' , 6 },{'g' , 7 },{'h' , 8 },{'j' , 10 },{'k' , 11 },{'l' , 12 },{'m' , 13 },
-            //    {'n' , 14 },{'p' , 16 }, {'q' , 17 },{'r' , 18 },{'s' , 19 },{'t' , 20 },{'v' , 22 },{'x' , 24 },{'z' , 26 },
-            //};
-
-            //Console.WriteLine(d.GetEnumerator(1));
-
-
-            //int[] number = { 1, 2, 2, 2, };
-
-            //string[] s = new string[number.Length];
-            //for (int i = 0; i <= number.Length - 1; i++)
-            //{
-            //    s[i] = number[i].ToString();
-            //}
-
-            //Console.WriteLine(s[2]);
-            Console.WriteLine(AdjacentElementsProduct(new int[] { 1, 2,3}));
-
+            
         }
         public static int Factorial(int n)
         {
